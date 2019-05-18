@@ -175,6 +175,10 @@ Install v1.0.0 if you need to support Swift 2.3.
 
 Install v1.0.2 and above if you want to support Swift 3.
 
+Install v1.1.8 if you want to support Swift 4.
+
+Install v1.1.9 if you want to support Swift 5.
+
 
 ## Demo
 
